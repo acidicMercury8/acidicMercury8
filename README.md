@@ -78,6 +78,12 @@ I am __acidicMercury8__, a software engineer from __Russian Federation__
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=flat&logo=docker&logoColor=white" />
   </a>
+  <a href="https://kubernetes.io/">
+    <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=flat&logo=kubernetes&logoColor=white" />
+  </a>
+  <a href="https://helm.sh/">
+    <img src="https://img.shields.io/badge/Helm-%230F1689.svg?&style=flat&logo=helm&logoColor=white" />
+  </a>
 </div>
 
 <h3 align="center">Services and databases</h3>
@@ -217,12 +223,6 @@ I am __acidicMercury8__, a software engineer from __Russian Federation__
 </div>
 
 <div align="center">
-  <a href="https://kubernetes.io/">
-    <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=flat&logo=kubernetes&logoColor=white" />
-  </a>
-  <a href="https://helm.sh/">
-    <img src="https://img.shields.io/badge/Helm-%230F1689.svg?&style=flat&logo=helm&logoColor=white" />
-  </a>
   <a href="https://www.drone.io/">
     <img src="https://img.shields.io/badge/Drone-%23212121.svg?&style=flat&logo=drone&logoColor=white" />
   </a>
