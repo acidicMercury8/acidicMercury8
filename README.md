@@ -227,14 +227,3 @@ The technologies I work with are listed here:
     <img src="https://img.shields.io/badge/Drone-%23212121.svg?&style=flat&logo=drone&logoColor=white" />
   </a>
 </div>
-
-<h3 align="center">Contacts</h3>
-
-<div align="center">
-  <a href="mailto:acidicmercury8@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft%20Outlook-%230078D4.svg?&style=flat&logo=microsoft%20outlook&logoColor=white" />
-  </a>
-  <a href="https://t.me/acidicMercury8">
-    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=flat&logo=telegram&logoColor=white" />
-  </a>
-</div>
