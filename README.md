@@ -1,12 +1,12 @@
-<div align="center">
-  <img src="./greetings.svg" alt="Greetings" />
-</div>
+<br />
 
 <div align="center">
 
-Welcome to my __GitHub__ profile and let me introduce myself!
+Hello and welcome to my __GitHub__ profile and let me introduce myself!
 
 I am __acidicMercury8__, a software engineer from __Russian Federation__
+
+The technologies I work with are listed here:
 
 </div>
 
