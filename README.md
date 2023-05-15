@@ -54,7 +54,7 @@ The technologies I work with are listed here:
   </a>
 </div>
 
-<h3 align="center">Technologies</h3>
+<h3 align="center">Technologies and platforms</h3>
 
 <div align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/">
@@ -86,6 +86,7 @@ The technologies I work with are listed here:
   </a>
 </div>
 
+<center><details><summary>Tools</summary>
 <h3 align="center">Services and databases</h3>
 
 <div align="center">
@@ -207,6 +208,8 @@ The technologies I work with are listed here:
     <img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?&style=flat&logo=virtualbox&logoColor=white" />
   </a>
 </div>
+</details>
+</center>
 
 <h3 align="center">Planned to study</h3>
 
@@ -219,11 +222,5 @@ The technologies I work with are listed here:
   </a>
   <a href="https://www.haskell.org/">
     <img src="https://img.shields.io/badge/Haskell-%235D4F85.svg?&style=flat&logo=haskell&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.drone.io/">
-    <img src="https://img.shields.io/badge/Drone-%23212121.svg?&style=flat&logo=drone&logoColor=white" />
   </a>
 </div>
