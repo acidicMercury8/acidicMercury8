@@ -1,18 +1,20 @@
-# Greeting
+<h1 align="center">
+  Welcome
+</h2>
 
-Welcome to my __GitHub__ profile and let me introduce myself!
+<p align="center">
+  Let me introduce myself! I am <b>acidicMercury8</b>, a software engineer from <b>Russian Federation</b>
+  <br />
+  Complete list of things I am working with and on is provided on this page
+</p>
 
-I am __acidicMercury8__, a software engineer from __Russian Federation__
+<h2 align="center">
+  Technology stack
+</h2>
 
-The full list of things I work with is below
-
-## Full list
-
-### Languages
-
-<div>
+<div align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/C%23_-%23239120.svg?&style=flat&logo=c%20sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-512BD4.svg?style=flat&logo=C%23&logoColor=white" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/">
     <img src="https://img.shields.io/badge/Visual_Basic-%23512BD4.svg?&style=flat&logo=dotnet&logoColor=white" />
@@ -23,9 +25,7 @@ The full list of things I work with is below
   <a href="https://www.open-std.org/jtc1/sc22/wg14/">
     <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?&style=flat&logo=c&logoColor=black" />
   </a>
-</div>
-
-<div>
+  <br />
   <a href="https://www.lua.org/">
     <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?&style=flat&logo=lua&logoColor=white" />
   </a>
@@ -38,11 +38,12 @@ The full list of things I work with is below
   <a href="https://learn.microsoft.com/en-us/windows/console/">
     <img src="https://img.shields.io/badge/Windows%20Console-%234D4D4D.svg?&style=flat&logo=windows%20terminal&logoColor=white" />
   </a>
-</div>
-
-<div>
+  <br />
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/">
     <img src="https://img.shields.io/badge/XAML-%230C54C2.svg?&style=flat&logo=xaml&logoColor=white" />
+  </a>
+  <a href="https://docs.avaloniaui.net/docs/basics/user-interface/introduction-to-xaml/">
+    <img src="https://img.shields.io/badge/AXAML-%230C54C2.svg?&style=flat&logo=xaml&logoColor=white" />
   </a>
   <a href="https://www.json.org/json-en.html">
     <img src="https://img.shields.io/badge/JSON-%23000000.svg?&style=flat&logo=json&logoColor=white" />
@@ -52,9 +53,9 @@ The full list of things I work with is below
   </a>
 </div>
 
-### Technologies and platforms
+<br />
 
-<div>
+<div align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/">
     <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?&style=flat&logo=dotnet&logoColor=white" />
   </a>
@@ -64,15 +65,14 @@ The full list of things I work with is below
   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/">
     <img src="https://img.shields.io/badge/WPF-%23512BD4.svg?&style=flat&logo=dotnet&logoColor=white" />
   </a>
+  <br />
   <a href="https://swagger.io/">
     <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?&style=flat&logo=swagger&logoColor=black" />
   </a>
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat&logo=node.js&logoColor=white" />
   </a>
-</div>
-
-<div>
+  <br />
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=flat&logo=docker&logoColor=white" />
   </a>
@@ -84,9 +84,9 @@ The full list of things I work with is below
   </a>
 </div>
 
-### Services and databases
+<br />
 
-<div>
+<div align="center">
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white" />
   </a>
@@ -99,26 +99,22 @@ The full list of things I work with is below
   <a href="https://gitea.io/">
     <img src="https://img.shields.io/badge/Gitea-%23609926.svg?&style=flat&logo=gitea&logoColor=white" />
   </a>
-</div>
-
-<div>
+  <br />
   <a href="https://learn.microsoft.com/en-us/sql/">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?&style=flat&logo=microsoft%20sql%20server&logoColor=white" />
   </a>
   <a href="https://www.sqlite.org/">
     <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?&style=flat&logo=sqlite&logoColor=white" />
   </a>
-</div>
-
-<div>
+  <br />
   <a href="https://github.com/features/actions/">
     <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=flat&logo=github%20actions&logoColor=white" />
   </a>
 </div>
 
-### Development tools
+<br />
 
-<div>
+<div align="center">
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat&logo=git&logoColor=white" />
   </a>
@@ -134,9 +130,7 @@ The full list of things I work with is below
   <a href="https://www.fossil-scm.org/">
     <img src="https://img.shields.io/badge/Fossil-%23548294.svg?&style=flat&logo=fossil%20scm&logoColor=white" />
   </a>
-</div>
-
-<div>
+  <br />
   <a href="https://visualstudio.microsoft.com/">
     <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?&style=flat&logo=visual%20studio&logoColor=white" />
   </a>
@@ -149,9 +143,7 @@ The full list of things I work with is below
   <a href="https://www.nuget.org/">
     <img src="https://img.shields.io/badge/NuGet-%23004880.svg?&style=flat&logo=nuget&logoColor=white" />
   </a>
-</div>
-
-<div>
+  <br />
   <a href="https://www.postman.com/">
     <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=flat&logo=postman&logoColor=white" />
   </a>
@@ -160,9 +152,9 @@ The full list of things I work with is below
   </a>
 </div>
 
-### Operation systems
+<br />
 
-<div>
+<div align="center">
   <a href="https://en.wikipedia.org/wiki/Windows_11">
     <img src="https://img.shields.io/badge/Windows_11-%230079d5.svg?&style=flat&logo=Windows%2011&logoColor=white" />
   </a>
@@ -172,9 +164,7 @@ The full list of things I work with is below
   <a href="https://en.wikipedia.org/wiki/Windows_XP">
     <img src="https://img.shields.io/badge/Windows%20XP-%23003399.svg?&style=flat&logo=windows%20xp&logoColor=white" />
   </a>
-</div>
-
-<div>
+  <br />
   <a href="https://www.gnu.org/">
     <img src="https://img.shields.io/badge/GNU-%23A42E2B.svg?&style=flat&logo=gnu&logoColor=white" />
   </a>
@@ -187,17 +177,15 @@ The full list of things I work with is below
   <a href="https://manjaro.org/">
     <img src="https://img.shields.io/badge/Manjaro-%2335BF5C.svg?&style=flat&logo=manjaro&logoColor=white" />
   </a>
-</div>
-
-<div>
+  <br />
   <a href="https://www.android.com/intl/en_us/">
     <img src="https://img.shields.io/badge/Android-%233DDC84.svg?&style=flat&logo=android&logoColor=black" />
   </a>
 </div>
 
-### Other tools
+<br />
 
-<div>
+<div align="center">
   <a href="https://www.mozilla.org/en-US/firefox/">
     <img src="https://img.shields.io/badge/Firefox-%23FF7139.svg?&style=flat&logo=firefox%20browser&logoColor=white" />
   </a>
@@ -209,9 +197,11 @@ The full list of things I work with is below
   </a>
 </div>
 
-### Planned to study
+<h2 align="center">
+  Planned to study
+</h2>
 
-<div>
+<div align="center">
   <a href="https://learn.microsoft.com/en-us/xamarin/">
     <img src="https://img.shields.io/badge/Xamarin-%233498DB.svg?&style=flat&logo=xamarin&logoColor=white" />
   </a>
